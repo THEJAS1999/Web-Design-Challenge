@@ -1,0 +1,33 @@
+button{
+    color: aliceblue;
+    background: blueviolet;
+}
+#para1{
+    color: chocolate;
+}
+#para2{
+    color: rgb(40, 20, 220);
+}
+.content{
+    color: cyan;
+    background: darkgoldenrod;
+}
+div{
+    width: 500px;
+    height: 400px;
+    background: darkred;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    border: 5px solid red;
+
+}
+.white{
+    color: #fff;
+}
+.inner-div{
+    color: saddlebrown;
+    background: slategray;
+    width: 200px;
+    height: 100px;
+}
